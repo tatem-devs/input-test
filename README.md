@@ -1,27 +1,22 @@
-# React + TypeScript + Vite
+# Tatem Technical Assesment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Thank you for making it this far in our application process! We value your time and interest & have prepared a short techincal assessment for you.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Tasks:
+* add keyboard navigation to the form so that you can navigate through the inputs via pressing the up and down arrow keys
+* add a submit function that saves the form data to localStorage
+* display submitted data (if data currently exists in local storage, on a subsequent page load it should display that data)
+
+Optional Tasks (not necessary for completion):
+* host this site on any free hosting platform
+* style the interface as you'd like
+
+```
+
+Estimated time for this assessment is 1-3 hours, but should take no longer than 6 hours.
+
+Please download your finished source code as a zip file & email it back to us once completed.
+
+Please email jon@tatem.com if you have any questions! Thank you!!
